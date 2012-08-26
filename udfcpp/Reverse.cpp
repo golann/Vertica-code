@@ -4,7 +4,9 @@
 
 using namespace Vertica;
 
-
+/*
+ * Returns the string str with the order of the characters reversed. 
+ */
 class ReverseString : public ScalarFunction
 {
         public:

@@ -4,7 +4,7 @@
  *
  * Create Date: May 29, 2012
  * Author     : daniel@twingo.co.il
- * Comiling   :
+ * Compile    :
  * g++ -D HAVE_LONG_INT_64 -I /opt/vertica/sdk/include \
  * -Wall -shared -Wno-unused-value -fPIC               \
  * -o MonthNameUDF.so MonthName.cpp /opt/vertica/sdk/include/Vertica.cpp
