@@ -1,3 +1,6 @@
+/*
+-= TWINGO LTD 2006-2012 www.twingo.co.il =-
+*/
 #include <string>
 #include <stdlib.h>
 #include <time.h>
