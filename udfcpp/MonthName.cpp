@@ -1,7 +1,8 @@
 /* 
- * Description: returns month date name
- * when 'January' is a first in order.
- *
+-= TWINGO LTD 2006-2012 www.twingo.co.il =- 
+*/
+/* 
+ * Description: returns month date name when 'January' is a first in order.
  * Create Date: May 29, 2012
  * Author     : daniel@twingo.co.il
  * Compile    :
