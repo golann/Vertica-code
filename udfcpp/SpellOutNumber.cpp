@@ -1,9 +1,11 @@
-/**
+/*
+-= TWINGO LTD 2006-2012 www.twingo.co.il =-
+*/
+/*
  * DESCRIPTION: 
- * AUTHOR     : daniel [at] twingo.co.il (aka sKwa)
+ * AUTHOR     : daniel@twingo.co.il (aka sKwa)
  * DATE       : 13/08/2012
- *
- **/
+ */
  
  /* COMPILING:
   * g++ -D HAVE_LONG_INT_64 -I /opt/vertica/sdk/include \
