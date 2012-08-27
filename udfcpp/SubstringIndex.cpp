@@ -1,4 +1,7 @@
 /*
+-= TWINGO LTD 2006-2012 www.twingo.co.il =-
+*/
+/*
  * The SUBSTRING_INDEX function searches a character string for a specified 
  * delimiter string, and returns a substring of the leading or trailing characters, 
  * based on a count of a delimiter that you specify as an argument to the function.
